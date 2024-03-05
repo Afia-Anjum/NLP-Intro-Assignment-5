@@ -1,0 +1,17 @@
+INTRO TO NLP
+Shehroze Khan (ccid: shehroze) and Afia Anjum (ccid: afia)
+
+Place the assignment-5.py file in the directory which contains the directory "a5_data_students" with the train file "trainBBC.csv", test file "testBBC.csv" and evaluation file "evalBBC.csv".
+
+Run the program. It will generate two .csv files, namely "output_testBBC.csv" and "output_evalBBC.csv". These files will be generated in the same directory as the assignment-5.py file.
+
+Furthermore, the program will also print the following to the console:
+
+- the data split indices as a results of cross-validation
+- the average accuracy scores per parameter
+- the best parameters selected as a result of cross-validation
+- the accuracy score on testBBC.csv
+- the confusion matrix
+- the macro precision and recall scores
+- the micro precision score
+- the (avg.) macro precision score
