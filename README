@@ -1,3 +1,8 @@
+SOURCES:
+1) https://pythonmachinelearning.pro/text-classification-tutorial-with-naive-bayes/
+2) https://medium.com/@makcedward/nlp-pipeline-stop-words-part-5-d6770df8a936 --> stop word removal guide
+3) https://www.programiz.com/python-programming/writing-csv-files --> writing CSV output file guide
+
 INTRO TO NLP
 
 Place the assignment-5.py file in the directory which contains the directory "a5_data_students" with the train file "trainBBC.csv", test file "testBBC.csv" and evaluation file "evalBBC.csv".
